@@ -45,7 +45,7 @@ The dataset is available at : https://drive.google.com/file/d/13jxJYzrpKJXteckGh
 
 ```bash
 git clone [https://github.com/anushkagupta19/AI-Fake-News-Detector]
-cd HackX---AI-Fake-News-Detector
+cd AI-Fake-News-Detector
 ```
 
 2. **Create a virtual environment (optional but recommended)**
