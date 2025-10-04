@@ -44,7 +44,7 @@ The dataset is available at : https://drive.google.com/file/d/13jxJYzrpKJXteckGh
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/AnubhavBhatnagar27/HackX---AI-Fake-News-Detector
+git clone [https://github.com/anushkagupta19/AI-Fake-News-Detector]
 cd HackX---AI-Fake-News-Detector
 ```
 
